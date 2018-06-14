@@ -6,3 +6,4 @@ Git tracks changes of files.
 1.添加add操作
 2.修改提交commit
 20180614添加一行——分支测试
+Creating a new branch is quick & simple.
