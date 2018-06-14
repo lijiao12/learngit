@@ -12,3 +12,4 @@ Creating a new branch is quick & simple.
 20180614添加一行——分支测试。
 再添加分支测试。
 >>>>>>> featurel
+修改readme.txt文件，并提交一个新的commit：
